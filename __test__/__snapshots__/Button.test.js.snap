@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Rendering should match to snapshot 1`] = `
+<View
+  accessible={true}
+  isTVSelectable={true}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Array [
+      Object {
+        "borderRadius": 5,
+        "flex": 1,
+        "marginBottom": 10,
+        "marginLeft": 10,
+      },
+      Object {},
+    ]
+  }
+>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "backgroundColor": "#ddd",
+          "flex": 1,
+          "justifyContent": "center",
+        },
+        Object {
+          "borderRadius": 5,
+        },
+      ]
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "#000",
+          "fontFamily": "System",
+          "fontSize": 26,
+        }
+      }
+    >
+      9
+    </Text>
+  </View>
+</View>
+`;
