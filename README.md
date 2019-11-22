@@ -3,6 +3,8 @@ React Native Calculator App, using Expo v35, react v16.9.0, redux 4.0.4 and reac
 
 This app runs on Expo v35.0.0, react native v0.59 (I guess).
 
+![Screenshot](Demo.png)
+
 Setup Expo:
 ```
 https://docs.expo.io/versions/v35.0.0/get-started/installation/
